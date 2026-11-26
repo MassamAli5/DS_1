@@ -1,6 +1,6 @@
 # NYC 311 Pothole Reports (CY2024) — feasibility, data quality, and a testable question
 
-Assignment artifact set: frozen dataset, executable notebook, PDF report, data card,
+Artifact set: frozen dataset, executable notebook, PDF report, data card,
 data dictionary, AI-use log, and a results summary.
 
 > **One-line result.** `status = "Closed"` does not mean "repaired" — only 76.6% of closed
